@@ -39,7 +39,7 @@
 ## 🇬🇧 Windows mouse cursor style from Hard Truck Apocalypse:
 1. Download the `.cur` and `.ani` cursors from the `HTA cursors` repository folder to a folder on your computer that is convenient for you;
 2. Right-click on the empty desktop, select `Personalization` (or any other way);
-3. Select `Themes` and then `Mouse Cursor' (or open the mouse pointer settings window in any other way);
+3. Select `Themes` and then `Mouse Cursor` (or open the mouse pointer settings window in any other way);
 4. Change the desired pointer setting by clicking `Browse...`. In the explorer that opens, select one of the previously downloaded cursors;
 5. Repeat with all available cursors;
 6. Save the modified pointer schema via `Save as...`. Name it by any understandable name.;
