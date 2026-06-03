@@ -5,7 +5,8 @@
   <img src="Source images/strelka1.png" width="32" />
   <img src="Source images/strelka2.png" width="32" />
   <img src="Source images/strelka3.png" width="32" />
-  <img src="Source images/loading.gif" width="32" />
+  <img src="Source images/loading0.gif" width="32" />
+  <img src="Source images/loading1.gif" width="32" />
   <img src="Source images/cross0.png" width="32" />
   <img src="Source images/cross1.png" width="32" />
   <img src="Source images/vertical.png" width="32" />
