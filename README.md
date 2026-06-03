@@ -1,6 +1,26 @@
 # HTACursor
 
 <div align="center">
+  <img src="Source images/strelka0.png" width="32" />
+  <img src="Source images/strelka1.png" width="32" />
+  <img src="Source images/strelka2.png" width="32" />
+  <img src="Source images/strelka3.png" width="32" />
+  <img src="Source images/loading_0.png" width="32" />
+  <img src="Source images/cross0.png" width="32" />
+  <img src="Source images/cross1.png" width="32" />
+  <img src="Source images/vertical.png" width="32" />
+  <img src="Source images/horizontal.png" width="32" />
+  <img src="Source images/diagonal0.png" width="32" />
+  <img src="Source images/diagonal1.png" width="32" />
+  <img src="Source images/textselect.png" width="32" />
+  <img src="Source images/specialselect.png" width="32" />
+  <img src="Source images/unavailable.png" width="32" />
+  <img src="Source images/handwrite.png" width="32" />
+</div>
+
+---
+
+<div align="center">
   
 ![CursorSettings](mouse_settings.png)
 
