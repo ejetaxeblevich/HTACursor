@@ -5,9 +5,12 @@
   <img src="Source images/strelka1.png" width="32" />
   <img src="Source images/strelka2.png" width="32" />
   <img src="Source images/strelka3.png" width="32" />
+  <img src="Source images/strelka0_arcade_softedges.gif" width="32" />
+  <img src="Source images/strelka1_arcade.gif" width="26" />
   <img src="Source images/loading0.gif" width="32" />
   <img src="Source images/loading1.gif" width="32" />
   <img src="Source images/cross0.png" width="32" />
+  <img src="Source images/cross_arcade.gif" width="32" />
   <img src="Source images/cross1.png" width="32" />
   <img src="Source images/vertical.png" width="32" />
   <img src="Source images/horizontal.png" width="32" />
