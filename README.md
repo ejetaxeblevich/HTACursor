@@ -20,6 +20,21 @@
   <img src="Source images/specialselect.png" width="32" />
   <img src="Source images/unavailable.png" width="32" />
   <img src="Source images/handwrite.png" width="32" />
+  <img src="Source images/taptoscreen.png" width="32" />
+  <img src="Source images/hand_finger0.png" width="32" />
+  <img src="Source images/hand_finger1.png" width="32" />
+  <img src="Source images/hand_finger2.png" width="32" />
+  <img src="Source images/hand_drag0.png" width="32" />
+  <img src="Source images/hand_drop0.png" width="32" />
+  <img src="Source images/hand_drag1.png" width="32" />
+  <img src="Source images/hand_drop1.png" width="32" />
+  <img src="Source images/hand_white_finger0.png" width="32" />
+  <img src="Source images/hand_white_finger1.png" width="32" />
+  <img src="Source images/hand_white_finger2.png" width="32" />
+  <img src="Source images/hand_white_drag0.png" width="32" />
+  <img src="Source images/hand_white_drop0.png" width="32" />
+  <img src="Source images/hand_white_drag1.png" width="32" />
+  <img src="Source images/hand_white_drop1.png" width="32" />
 </div>
 
 ---
@@ -48,3 +63,6 @@
 6. Save the modified pointer schema via `Save as...`. Name it by any understandable name.;
 7. Click `Apply`.
 
+---
+
+Powered by [RealWorld Cursor Editor](https://www.rw-designer.com/cursor-maker)♥️
