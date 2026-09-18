@@ -60,7 +60,7 @@
 3. Select `Themes` and then `Mouse Cursor` (or open the mouse pointer settings window in any other way);
 4. Change the desired pointer setting by clicking `Browse...`. In the explorer that opens, select one of the previously downloaded cursors;
 5. Repeat with all available cursors;
-6. Save the modified pointer schema via `Save as...`. Name it by any understandable name.;
+6. Save the modified pointer schema via `Save as...`. Name it by any understandable name;
 7. Click `Apply`.
 
 ---
